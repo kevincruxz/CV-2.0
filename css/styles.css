@@ -49,6 +49,12 @@ hr {
   background-color: #9AD0EC;
 }
 
+.lang {
+  position: absolute;
+  right: 50px;
+  font-size: 1.3rem;
+}
+
 .nube-top {
   position: absolute;
   right: 450px;
@@ -71,6 +77,12 @@ hr {
   position: relative;
   left: 50px;
   padding-top: 100px;
+}
+
+.pro {
+  text-decoration: underline;
+  text-decoration-color: grey;
+  font-style: italic;
 }
 
 .skill-row {
