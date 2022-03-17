@@ -21,6 +21,11 @@ p {
   font-family: 'Comfortaa', cursive;
 }
 
+.profile a {
+  padding: 0;
+  color: #11999E;
+}
+
 a {
   color: #11999E;
   padding: 30px;
